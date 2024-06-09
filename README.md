@@ -1,4 +1,5 @@
-Undertale OST Music Replacement Addon
+**Undertale OST Replacement Addon**
+
 This addon replaces the original music of Age of History with the Undertale OST. It includes 16 music tracks to enhance your gaming experience.
 
 **Installation Instructions**
